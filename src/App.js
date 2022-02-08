@@ -1,10 +1,8 @@
-import logo from './logo.svg';
-import './App.css';
-
+import MoviesCardListContainer from './MoviesCardListContainer'
 function App() {
   return (
     <div className="App">
-      
+      <MoviesCardListContainer />
     </div>
   );
 }
